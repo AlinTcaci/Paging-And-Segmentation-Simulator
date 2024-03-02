@@ -1,6 +1,6 @@
 # Paging and Segmentation Simulator
 
-## Introduction
+## Overview
 The Paging and Segmentation Simulator project is designed to be an educational tool that demonstrates the concepts of paging and segmentation, which are crucial memory management techniques in computer operating systems. This project provides a graphical user interface (GUI) that allows users to interactively simulate and visualize how paging and segmentation work in managing system memory. The simulator aims to make complex concepts in operating system design more accessible and understandable, particularly for students and educators in computer science.
 
 ## Features
